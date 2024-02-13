@@ -371,6 +371,7 @@ input::placeholder {
 
 .section3-card-description a {
     text-decoration: none;
+    color: #007AB7;s
 }
 
 .section3-card-description a:hover {
