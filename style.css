@@ -339,9 +339,7 @@ input::placeholder {
     width: 180px;
     height: 190px;
     /* border: 1px solid black; */
-    position: relative;
-    top: 15px;
-    left: 19px;
+ 
     display: inline-block;
 
 }
